@@ -1,0 +1,19 @@
+body {
+  background:rgb(30, 31, 30);
+  width:700px;
+  border-style: double;
+  margin:auto;
+  color: white;
+  padding: 10px;
+}
+
+header {
+    border-style: double;
+    background:rgb(30, 31, 30);
+    padding: 10px;
+}
+
+a {
+  color: white;
+  font-style: italic;
+}
